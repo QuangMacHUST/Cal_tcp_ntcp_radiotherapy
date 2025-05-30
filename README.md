@@ -184,23 +184,10 @@ Log files được lưu trong thư mục `logs/`:
 - `tcp_ntcp_app.log`: Log chính của ứng dụng
 - Chứa thông tin debug và error messages
 
-## Đóng góp
-
-Chúng tôi hoan nghênh mọi đóng góp! Vui lòng:
-1. Fork repository
-2. Tạo feature branch
-3. Commit changes
-4. Push to branch
-5. Tạo Pull Request
-
-## Giấy phép
-
-Dự án này được phát hành dưới giấy phép MIT. Xem file LICENSE để biết chi tiết.
-
 ## Liên hệ
 
-- Email: support@radiotherapy-team.com
-- Issues: [GitHub Issues](https://github.com/your-repo/Cal_tcp_ntcp_radiotherapy/issues)
+- Email: quangmacdang@gmail.com
+- Issues: [GitHub Issues](https://github.com/quangmachust/Cal_tcp_ntcp_radiotherapy/issues)
 
 ## Tài liệu tham khảo
 
